@@ -39,5 +39,5 @@ jobs:
     - name: artefato
       uses: actions/upload-artifact@v4
       with:
-        name: projeto_compilado
+        name: artifact
         path: main
